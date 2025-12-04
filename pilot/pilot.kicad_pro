@@ -430,7 +430,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -609,6 +609,15 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "6e01a02a-937c-45ab-a43c-49a8d1056ac9",
+      "Root"
+    ],
+    [
+      "f8b94c15-0f98-420c-a532-2fade8bd7070",
+      "rp2350a"
+    ]
+  ],
   "text_variables": {}
 }
