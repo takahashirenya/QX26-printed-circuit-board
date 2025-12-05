@@ -1,5 +1,3 @@
 (sym_lib_table
   (version 7)
-  (lib (name "my")(type "KiCad")(uri "${KIPRJMOD}/symbols/my.kicad_sym")(options "")(descr ""))
-  (lib (name "pilot")(type "KiCad")(uri "${KIPRJMOD}/symbols/pilot.kicad_sym")(options "")(descr ""))
 )

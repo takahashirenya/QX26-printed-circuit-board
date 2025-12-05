@@ -6,6 +6,48 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 180.34 90.17)
+		(size 29.21 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dfd1c32f-bd86-4594-b3e8-9cea7250640c")
+		(property "Sheetname" "CAN"
+			(at 180.34 89.4584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "CAN.kicad_sch"
+			(at 180.34 113.6146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "pilot"
+				(path "/6e01a02a-937c-45ab-a43c-49a8d1056ac9"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 128.27 90.17)
 		(size 26.67 22.86)
 		(exclude_from_sim no)
