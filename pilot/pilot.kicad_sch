@@ -2194,6 +2194,26 @@
 				(justify left)
 			)
 		)
+		(pin "ELE_ADC" input
+			(at 154.94 81.28 0)
+			(uuid "c8caf89b-9b00-484f-8048-aae49e834097")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "LAD_ADC" input
+			(at 154.94 86.36 0)
+			(uuid "af32ed27-ff63-412c-af2d-b20e02874170")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "pilot"
 				(path "/6e01a02a-937c-45ab-a43c-49a8d1056ac9"
