@@ -2142,7 +2142,7 @@
 	)
 	(sheet
 		(at 90.17 72.39)
-		(size 64.77 63.5)
+		(size 48.26 41.91)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2166,7 +2166,7 @@
 			)
 		)
 		(property "Sheetfile" "rp2350a.kicad_sch"
-			(at 90.17 136.4746 0)
+			(at 90.17 114.8846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2195,7 +2195,7 @@
 			)
 		)
 		(pin "ELE_ADC" input
-			(at 154.94 81.28 0)
+			(at 138.43 81.28 0)
 			(uuid "c8caf89b-9b00-484f-8048-aae49e834097")
 			(effects
 				(font
@@ -2205,7 +2205,7 @@
 			)
 		)
 		(pin "LAD_ADC" input
-			(at 154.94 86.36 0)
+			(at 138.43 86.36 0)
 			(uuid "af32ed27-ff63-412c-af2d-b20e02874170")
 			(effects
 				(font
