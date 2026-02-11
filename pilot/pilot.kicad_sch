@@ -2132,6 +2132,66 @@
 				(justify left top)
 			)
 		)
+		(pin "CS" input
+			(at 180.34 92.71 180)
+			(uuid "05fed1f2-6a2f-47ff-91e1-f42f83c9aa61")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "INT" input
+			(at 180.34 96.52 180)
+			(uuid "779c50cf-13cd-44e5-970e-3d6d5084e569")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SCK" input
+			(at 180.34 100.33 180)
+			(uuid "c6099d30-f88f-486f-97fb-46f530dda3e9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SI" input
+			(at 180.34 104.14 180)
+			(uuid "21786d93-669e-4020-8383-eb119bb3b835")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "SO" input
+			(at 180.34 107.95 180)
+			(uuid "e614dd7e-c1eb-407f-8596-84918159d83c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "VCC_CAN_CON" input
+			(at 180.34 111.76 180)
+			(uuid "405d1f39-104d-42ec-af35-cc6288f458d8")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "pilot"
 				(path "/6e01a02a-937c-45ab-a43c-49a8d1056ac9"
