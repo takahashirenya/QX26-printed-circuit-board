@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TJA1050T
+D IC,transceiver,CAN,SOIC8,TJA1050T/N1
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-NXP/DSANXP010005907.pdf
+$ENDCMP
+#
+#End Doc Library
