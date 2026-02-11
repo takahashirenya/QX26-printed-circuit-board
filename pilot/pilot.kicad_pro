@@ -621,6 +621,10 @@
     [
       "dfd1c32f-bd86-4594-b3e8-9cea7250640c",
       "CAN"
+    ],
+    [
+      "dcfc96e1-e56d-42c9-b294-33f4cac85d9a",
+      "Buzzer"
     ]
   ],
   "text_variables": {}

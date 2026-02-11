@@ -3,4 +3,6 @@
   (lib (name "ABLS-8_000MHZ-12-B-4-Y-T")(type "KiCad")(uri "${KIPRJMOD}/symbols/ABLS-8_000MHZ-12-B-4-Y-T.kicad_sym")(options "")(descr ""))
   (lib (name "Librarys")(type "KiCad")(uri "${KIPRJMOD}/symbols/Library.kicad_sym")(options "")(descr ""))
   (lib (name "TJA1050T")(type "KiCad")(uri "${KIPRJMOD}/symbols/TJA1050T.kicad_sym")(options "")(descr ""))
+  (lib (name "2SC3325-Y_LF")(type "KiCad")(uri "${KIPRJMOD}/symbols/2SC3325-Y_LF.kicad_sym")(options "")(descr ""))
+  (lib (name "PKB24SPCH-3601-B0")(type "KiCad")(uri "${KIPRJMOD}/symbols/PKB24SPCH-3601-B0.kicad_sym")(options "")(descr ""))
 )
