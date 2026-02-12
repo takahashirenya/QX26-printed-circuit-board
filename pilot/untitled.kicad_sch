@@ -1308,7 +1308,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1498d099-ae30-4c16-a80f-79db1f96f4db")
-		(property "Reference" "#PWR047"
+		(property "Reference" "#PWR063"
 			(at 133.35 168.91 0)
 			(effects
 				(font
@@ -1358,7 +1358,7 @@
 		(instances
 			(project "pilot"
 				(path "/6e01a02a-937c-45ab-a43c-49a8d1056ac9/dcfc96e1-e56d-42c9-b294-33f4cac85d9a"
-					(reference "#PWR047")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -1653,7 +1653,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a8256ed1-5ecf-4a93-92b5-b742a55cca6a")
-		(property "Reference" "#PWR045"
+		(property "Reference" "#PWR061"
 			(at 110.49 63.5 0)
 			(effects
 				(font
@@ -1704,7 +1704,7 @@
 		(instances
 			(project "pilot"
 				(path "/6e01a02a-937c-45ab-a43c-49a8d1056ac9/dcfc96e1-e56d-42c9-b294-33f4cac85d9a"
-					(reference "#PWR045")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -1720,7 +1720,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c59b75bc-d6ef-4d46-9f99-899f755664c1")
-		(property "Reference" "#PWR048"
+		(property "Reference" "#PWR064"
 			(at 144.78 92.71 0)
 			(effects
 				(font
@@ -1771,7 +1771,7 @@
 		(instances
 			(project "pilot"
 				(path "/6e01a02a-937c-45ab-a43c-49a8d1056ac9/dcfc96e1-e56d-42c9-b294-33f4cac85d9a"
-					(reference "#PWR048")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -1787,7 +1787,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5f6b40d-b437-4de7-b529-5e0a9208047c")
-		(property "Reference" "#PWR046"
+		(property "Reference" "#PWR062"
 			(at 130.81 49.53 0)
 			(effects
 				(font
@@ -1837,7 +1837,7 @@
 		(instances
 			(project ""
 				(path "/6e01a02a-937c-45ab-a43c-49a8d1056ac9/dcfc96e1-e56d-42c9-b294-33f4cac85d9a"
-					(reference "#PWR046")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -1871,7 +1871,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "2SC3325YLF"
+		(property "Footprint" "rp2350:2SC3325YLF"
 			(at 137.16 232.08 0)
 			(effects
 				(font
@@ -2016,7 +2016,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PKB24SPCH3601B0"
+		(property "Footprint" "rp2350:PKB24SPCH3601B0"
 			(at 142.24 180.01 0)
 			(effects
 				(font
