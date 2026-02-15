@@ -2186,7 +2186,7 @@
 		(uuid "37249abc-b501-4c0c-ad3f-518c228c5c01")
 	)
 	(label "CAN_H"
-		(at 41.91 43.18 0)
+		(at 41.91 45.72 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2436,7 +2436,7 @@
 		(uuid "fc30e5bc-aded-4980-957e-b03b69c3cbe8")
 	)
 	(label "CAN_L"
-		(at 41.91 45.72 0)
+		(at 41.91 43.18 0)
 		(effects
 			(font
 				(size 1.27 1.27)
