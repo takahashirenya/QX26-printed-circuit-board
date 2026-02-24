@@ -262,7 +262,20 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "footprint_link_issues|241300|1104900|60984ef6-7d5f-45b2-acaf-4d4fd30ebf25|00000000-0000-0000-0000-000000000000|||",
+        ""
+      ],
+      [
+        "multiple_net_names|660400|825500|47544c90-2375-462b-9c16-f0f2e5a1f46c|00e281b3-ee82-4001-9f60-018de478365a|/6e01a02a-937c-45ab-a43c-49a8d1056ac9/f8b94c15-0f98-420c-a532-2fade8bd7070|/6e01a02a-937c-45ab-a43c-49a8d1056ac9/f8b94c15-0f98-420c-a532-2fade8bd7070|/6e01a02a-937c-45ab-a43c-49a8d1056ac9/f8b94c15-0f98-420c-a532-2fade8bd7070",
+        "VBUSは大体5Vにする。"
+      ],
+      [
+        "pin_to_pin|635000|254000|aed3f0d9-7726-4545-8c21-c06f3a056271|6e31d18d-07ac-4d3a-8109-be2872791b17|/6e01a02a-937c-45ab-a43c-49a8d1056ac9/f8b94c15-0f98-420c-a532-2fade8bd7070|/6e01a02a-937c-45ab-a43c-49a8d1056ac9/f8b94c15-0f98-420c-a532-2fade8bd7070|/6e01a02a-937c-45ab-a43c-49a8d1056ac9/f8b94c15-0f98-420c-a532-2fade8bd7070",
+        "むり。"
+      ]
+    ],
     "meta": {
       "version": 0
     },

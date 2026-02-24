@@ -1017,82 +1017,14 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 110.49 80.01 270)
+		(at 130.81 80.01 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "59d37f68-3441-4319-af4b-efa6a13aa7f1")
-		(property "Reference" "C29"
-			(at 110.49 72.39 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "0.1u"
-			(at 110.49 74.93 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 106.68 80.9752 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 110.49 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 110.49 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5fe3034d-685d-416f-a088-8b2feb993686")
-		)
-		(pin "1"
-			(uuid "2740c919-83cb-4397-9b6a-806282c4c32f")
-		)
-		(instances
-			(project "logger"
-				(path "/edd79af4-7743-4a3d-8195-b3e68f0873bc/f488a52a-2150-4ece-b472-389931403c2b"
-					(reference "C29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 130.81 80.01 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "849594cc-3a29-4716-bdef-5750aed426ba")
+		(uuid "0eeada56-744e-4c21-965a-31efec62951d")
 		(property "Reference" "C30"
 			(at 130.81 72.39 90)
 			(effects
@@ -1109,8 +1041,8 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 134.62 79.0448 0)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 127 80.9752 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1137,10 +1069,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "8c736f9f-6cc6-49ff-8ab8-eb041474e63f")
+			(uuid "cfd61bb9-fcc7-4139-942a-8805e1a96707")
 		)
 		(pin "2"
-			(uuid "efe72aa7-4010-4035-97c5-7f4e3de57f4b")
+			(uuid "4ec2e1c2-58c2-4ce5-b7ef-571c28490ab0")
 		)
 		(instances
 			(project "logger"
@@ -1634,6 +1566,74 @@
 			(project "logger"
 				(path "/edd79af4-7743-4a3d-8195-b3e68f0873bc/f488a52a-2150-4ece-b472-389931403c2b"
 					(reference "#PWR063")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 110.49 80.01 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e91ca1ed-d18d-40bd-ae2a-5ebbf6c62d62")
+		(property "Reference" "C29"
+			(at 110.49 72.39 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "0.1u"
+			(at 110.49 74.93 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 106.68 80.9752 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 110.49 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 110.49 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "0894531d-b366-4bfd-9429-c95a3901932d")
+		)
+		(pin "2"
+			(uuid "dc46ee02-bc3c-451b-b138-c9e1a7b89613")
+		)
+		(instances
+			(project ""
+				(path "/edd79af4-7743-4a3d-8195-b3e68f0873bc/f488a52a-2150-4ece-b472-389931403c2b"
+					(reference "C29")
 					(unit 1)
 				)
 			)
