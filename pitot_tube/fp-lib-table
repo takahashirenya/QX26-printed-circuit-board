@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/footprints.pretty")(options "")(descr ""))
+  (lib (name "crystal")(type "KiCad")(uri "C:/Users/renya/OneDrive/デスクトップ/鳥人間/26denso/QX26-printed-circuit-board/pilot/footprints/crystal.pretty")(options "")(descr ""))
+)

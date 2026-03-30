@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SDP32")(type "KiCad")(uri "${KIPRJMOD}/symbol/SDP32.kicad_sym")(options "")(descr ""))
+  (lib (name "W25Q128JVSIQTR")(type "KiCad")(uri "${KIPRJMOD}/symbol/W25Q128JVSIQTR.kicad_sym")(options "")(descr ""))
+  (lib (name "ABLS-8_000MHZ-12-B-4-Y-T")(type "KiCad")(uri "${KIPRJMOD}/symbol/ABLS-8_000MHZ-12-B-4-Y-T.kicad_sym")(options "")(descr ""))
+  (lib (name "DM3AT-SF-PEJM5_40_")(type "KiCad")(uri "${KIPRJMOD}/symbol/DM3AT-SF-PEJM5_40_.kicad_sym")(options "")(descr ""))
+  (lib (name "NX3215SA-32_768K-STD-MUA-8")(type "KiCad")(uri "${KIPRJMOD}/symbol/NX3215SA-32_768K-STD-MUA-8.kicad_sym")(options "")(descr ""))
+)
