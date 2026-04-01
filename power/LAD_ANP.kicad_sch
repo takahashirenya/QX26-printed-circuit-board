@@ -1707,7 +1707,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19f97fd8-b836-484a-9b1d-7c2995680a79")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR088"
 			(at 72.39 52.07 0)
 			(effects
 				(font
@@ -1757,7 +1757,7 @@
 		(instances
 			(project "power"
 				(path "/b905a668-e7ff-483f-a1a5-78bb0590864b/4831bb9e-fd38-4fae-8ef4-b85584d1912a"
-					(reference "#PWR086")
+					(reference "#PWR088")
 					(unit 1)
 				)
 			)
@@ -1773,7 +1773,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2dee6893-f293-4390-8678-c88512b5de2c")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR090"
 			(at 132.08 88.9 0)
 			(effects
 				(font
@@ -1823,7 +1823,7 @@
 		(instances
 			(project "power"
 				(path "/b905a668-e7ff-483f-a1a5-78bb0590864b/4831bb9e-fd38-4fae-8ef4-b85584d1912a"
-					(reference "#PWR088")
+					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -2122,7 +2122,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "96a32af7-147e-4e80-b58d-8bb83c22a925")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR091"
 			(at 143.51 120.65 0)
 			(effects
 				(font
@@ -2173,7 +2173,7 @@
 		(instances
 			(project "power"
 				(path "/b905a668-e7ff-483f-a1a5-78bb0590864b/4831bb9e-fd38-4fae-8ef4-b85584d1912a"
-					(reference "#PWR089")
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -2463,7 +2463,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bd30204e-f4a3-4713-ab4c-707875a38b8f")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR089"
 			(at 86.36 120.65 0)
 			(effects
 				(font
@@ -2513,7 +2513,7 @@
 		(instances
 			(project "power"
 				(path "/b905a668-e7ff-483f-a1a5-78bb0590864b/4831bb9e-fd38-4fae-8ef4-b85584d1912a"
-					(reference "#PWR087")
+					(reference "#PWR089")
 					(unit 1)
 				)
 			)
@@ -2529,7 +2529,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f705b000-a2b0-4187-a0da-cb3714845070")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR092"
 			(at 163.83 129.54 0)
 			(effects
 				(font
@@ -2579,7 +2579,7 @@
 		(instances
 			(project "power"
 				(path "/b905a668-e7ff-483f-a1a5-78bb0590864b/4831bb9e-fd38-4fae-8ef4-b85584d1912a"
-					(reference "#PWR090")
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -2613,7 +2613,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:SOD2512X110N"
+		(property "Footprint" "footprints:SOD2512X110N"
 			(at 70.18 115.57 0)
 			(effects
 				(font

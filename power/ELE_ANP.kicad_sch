@@ -1715,7 +1715,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "37561c68-ffd7-4354-bc12-2406b20e2e49")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR086"
 			(at 128.27 125.73 0)
 			(effects
 				(font
@@ -1766,7 +1766,7 @@
 		(instances
 			(project "power"
 				(path "/b905a668-e7ff-483f-a1a5-78bb0590864b/b2880fc9-ffe6-470a-8ca0-b35b55d83219"
-					(reference "#PWR084")
+					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -1850,7 +1850,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "48e136d4-ed8a-4076-a155-1fd0df61ef86")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR085"
 			(at 116.84 93.98 0)
 			(effects
 				(font
@@ -1900,7 +1900,7 @@
 		(instances
 			(project "power"
 				(path "/b905a668-e7ff-483f-a1a5-78bb0590864b/b2880fc9-ffe6-470a-8ca0-b35b55d83219"
-					(reference "#PWR083")
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -1916,7 +1916,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "527eebb0-6176-431a-b796-3f9dffbb14fa")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR084"
 			(at 71.12 125.73 0)
 			(effects
 				(font
@@ -1966,7 +1966,7 @@
 		(instances
 			(project "power"
 				(path "/b905a668-e7ff-483f-a1a5-78bb0590864b/b2880fc9-ffe6-470a-8ca0-b35b55d83219"
-					(reference "#PWR082")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -1998,7 +1998,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 77.47 80.772 90)
 			(effects
 				(font
@@ -2050,7 +2050,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5dd73a30-4008-423c-a993-f0f2d13c1465")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR083"
 			(at 57.15 57.15 0)
 			(effects
 				(font
@@ -2100,7 +2100,7 @@
 		(instances
 			(project "power"
 				(path "/b905a668-e7ff-483f-a1a5-78bb0590864b/b2880fc9-ffe6-470a-8ca0-b35b55d83219"
-					(reference "#PWR081")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -2114,10 +2114,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "5e81feac-9035-4779-919d-26cadf3dcd0f")
 		(property "Reference" "D4"
-			(at 121.92 111.76 0)
+			(at 124.968 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2125,7 +2124,7 @@
 			)
 		)
 		(property "Value" "D_Zener 3V"
-			(at 124.46 111.76 0)
+			(at 124.714 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2272,7 +2271,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SamacSys_Parts:SOD2512X110N"
+		(property "Footprint" "footprints:SOD2512X110N"
 			(at 54.94 120.65 0)
 			(effects
 				(font
@@ -2396,7 +2395,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85136828-cd4a-4909-ab82-33e58ad048c0")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR087"
 			(at 148.59 134.62 0)
 			(effects
 				(font
@@ -2446,7 +2445,7 @@
 		(instances
 			(project "power"
 				(path "/b905a668-e7ff-483f-a1a5-78bb0590864b/b2880fc9-ffe6-470a-8ca0-b35b55d83219"
-					(reference "#PWR085")
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -2555,7 +2554,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 77.47 68.072 90)
 			(effects
 				(font
