@@ -3952,6 +3952,14 @@
 		(uuid "fd06eac0-c1d0-433d-aaea-a18c82bee239")
 	)
 	(no_connect
+		(at 271.78 227.33)
+		(uuid "1129d2d6-1905-4333-90c1-1f47293024a1")
+	)
+	(no_connect
+		(at 271.78 229.87)
+		(uuid "277558cb-683e-4fd6-8e02-bdb0823ffce2")
+	)
+	(no_connect
 		(at 72.39 55.88)
 		(uuid "3f3436d7-3d4c-48a8-8d6f-c03c8ab1d290")
 	)
@@ -5583,17 +5591,6 @@
 		)
 		(uuid "0607add6-970e-470c-a512-0791e1e66f60")
 	)
-	(hierarchical_label "ELE_LOAD"
-		(shape input)
-		(at 271.78 229.87 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "0b174b64-3d12-4766-8fa3-15d752d2c560")
-	)
 	(hierarchical_label "R_HAT"
 		(shape input)
 		(at 271.78 217.17 0)
@@ -5626,17 +5623,6 @@
 			(justify left)
 		)
 		(uuid "1db210f8-08b7-4d7d-9093-c251cd31284a")
-	)
-	(hierarchical_label "LAD_LOAD"
-		(shape input)
-		(at 271.78 227.33 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "20741508-fb8e-4281-9c49-e716732b8580")
 	)
 	(hierarchical_label "ELE"
 		(shape input)
