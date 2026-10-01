@@ -5,4 +5,5 @@
   (lib (name "TJA1050T")(type "KiCad")(uri "${KIPRJMOD}/symbol/TJA1050T.kicad_sym")(options "")(descr ""))
   (lib (name "W25Q128JVSIQTR")(type "KiCad")(uri "${KIPRJMOD}/symbol/W25Q128JVSIQTR.kicad_sym")(options "")(descr ""))
   (lib (name "NX3215SA-32_768K-STD-MUA-8")(type "KiCad")(uri "${KIPRJMOD}/symbol/NX3215SA-32_768K-STD-MUA-8.kicad_sym")(options "")(descr ""))
+  (lib (name "ZX62M-B-5P")(type "KiCad")(uri "${KIPRJMOD}/symbol/ZX62M-B-5P.kicad_sym")(options "")(descr ""))
 )

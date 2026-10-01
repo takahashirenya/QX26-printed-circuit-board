@@ -6,4 +6,5 @@
   (lib (name "2SC3325-Y_LF")(type "KiCad")(uri "${KIPRJMOD}/symbols/2SC3325-Y_LF.kicad_sym")(options "")(descr ""))
   (lib (name "PKB24SPCH-3601-B0")(type "KiCad")(uri "${KIPRJMOD}/symbols/PKB24SPCH-3601-B0.kicad_sym")(options "")(descr ""))
   (lib (name "W25Q128JVSIQTR")(type "KiCad")(uri "${KIPRJMOD}/symbols/W25Q128JVSIQTR.kicad_sym")(options "")(descr ""))
+  (lib (name "ZX62M-B-5P")(type "KiCad")(uri "${KIPRJMOD}/symbols/ZX62M-B-5P.kicad_sym")(options "")(descr ""))
 )

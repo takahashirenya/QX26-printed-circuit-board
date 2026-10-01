@@ -6,4 +6,5 @@
   (lib (name "ABLS-8_000MHZ-12-B-4-Y-T")(type "KiCad")(uri "${KIPRJMOD}/symbol/ABLS-8_000MHZ-12-B-4-Y-T.kicad_sym")(options "")(descr ""))
   (lib (name "TJA1050T")(type "KiCad")(uri "${KIPRJMOD}/symbol/TJA1050T.kicad_sym")(options "")(descr ""))
   (lib (name "W25Q128JVSIQTR")(type "KiCad")(uri "${KIPRJMOD}/symbol/W25Q128JVSIQTR.kicad_sym")(options "")(descr ""))
+  (lib (name "ZX62M-B-5P")(type "KiCad")(uri "${KIPRJMOD}/symbol/ZX62M-B-5P.kicad_sym")(options "")(descr ""))
 )

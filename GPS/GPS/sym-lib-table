@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TYPE-C-31-M-17")(type "KiCad")(uri "${KIPRJMOD}/symbol/TYPE-C-31-M-17.kicad_sym")(options "")(descr ""))
+  (lib (name "CON-SMA-EDGE-S")(type "KiCad")(uri "${KIPRJMOD}/symbol/CON-SMA-EDGE-S.kicad_sym")(options "")(descr ""))
+  (lib (name "BLM18AG102SN1D")(type "KiCad")(uri "${KIPRJMOD}/symbol/BLM18AG102SN1D.kicad_sym")(options "")(descr ""))
+)

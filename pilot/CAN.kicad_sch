@@ -2558,7 +2558,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "401c0ab4-65e3-438d-9861-2bc2733b5b53")
-		(property "Reference" "R11"
+		(property "Reference" "R12"
 			(at 241.3 57.1499 0)
 			(effects
 				(font
@@ -2612,7 +2612,7 @@
 		(instances
 			(project ""
 				(path "/6e01a02a-937c-45ab-a43c-49a8d1056ac9/dfd1c32f-bd86-4594-b3e8-9cea7250640c"
-					(reference "R11")
+					(reference "R12")
 					(unit 1)
 				)
 			)
@@ -2628,7 +2628,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "57109ac3-9e28-4623-983e-a087603dc6e4")
-		(property "Reference" "R9"
+		(property "Reference" "R10"
 			(at 114.3 31.7499 0)
 			(effects
 				(font
@@ -2682,7 +2682,7 @@
 		(instances
 			(project ""
 				(path "/6e01a02a-937c-45ab-a43c-49a8d1056ac9/dfd1c32f-bd86-4594-b3e8-9cea7250640c"
-					(reference "R9")
+					(reference "R10")
 					(unit 1)
 				)
 			)
@@ -3177,7 +3177,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aff8d7de-f0f6-454c-8067-19f4f9b105e2")
-		(property "Reference" "D6"
+		(property "Reference" "D5"
 			(at 114.3 43.1799 90)
 			(effects
 				(font
@@ -3195,7 +3195,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMA"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 111.76 44.45 0)
 			(effects
 				(font
@@ -3249,7 +3249,7 @@
 		(instances
 			(project ""
 				(path "/6e01a02a-937c-45ab-a43c-49a8d1056ac9/dfd1c32f-bd86-4594-b3e8-9cea7250640c"
-					(reference "D6")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -3331,7 +3331,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c69e75fe-e9ba-40e5-a248-0f02d7aa41ca")
-		(property "Reference" "R10"
+		(property "Reference" "R11"
 			(at 151.13 95.25 90)
 			(effects
 				(font
@@ -3383,7 +3383,7 @@
 		(instances
 			(project ""
 				(path "/6e01a02a-937c-45ab-a43c-49a8d1056ac9/dfd1c32f-bd86-4594-b3e8-9cea7250640c"
-					(reference "R10")
+					(reference "R11")
 					(unit 1)
 				)
 			)

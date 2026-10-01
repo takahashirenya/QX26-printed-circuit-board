@@ -4576,6 +4576,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C6473035"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "7060257d-88d3-4560-9cde-87a040a1d5f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SDP32-125PA_SEN")
 		(path "/8b5b2b27-ab65-4bbf-8265-9c742176cd6b/6744b7bf-5d87-4717-84d4-ecf18026a8a1")
 		(sheetname "/SDP32_2/")

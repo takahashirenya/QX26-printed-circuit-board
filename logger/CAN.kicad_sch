@@ -3273,7 +3273,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_SMA"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 104.14 71.12 0)
 			(effects
 				(font
